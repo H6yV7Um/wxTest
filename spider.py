@@ -47,8 +47,9 @@ def scratchBugUrl(loginSession, HomePageUrl):
     else:
         raise RequestError("BiuBiuBiu: ProjectPage.status = " + ProjectPage.status_code)
 
-#def SlovingPrecent():
-
+def SlovingPrecent():
+    pass
+    
 #def ExportBugExcel(loginSession, BugUrl):
 #    pattern =
 
